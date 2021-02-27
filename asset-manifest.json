@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ex2-signets/static/css/main.b21b2f03.chunk.css",
+    "main.js": "/ex2-signets/static/js/main.3c061f01.chunk.js",
+    "main.js.map": "/ex2-signets/static/js/main.3c061f01.chunk.js.map",
+    "runtime-main.js": "/ex2-signets/static/js/runtime-main.1ca72e9f.js",
+    "runtime-main.js.map": "/ex2-signets/static/js/runtime-main.1ca72e9f.js.map",
+    "static/js/2.dbe1c2d1.chunk.js": "/ex2-signets/static/js/2.dbe1c2d1.chunk.js",
+    "static/js/2.dbe1c2d1.chunk.js.map": "/ex2-signets/static/js/2.dbe1c2d1.chunk.js.map",
+    "index.html": "/ex2-signets/index.html",
+    "static/css/main.b21b2f03.chunk.css.map": "/ex2-signets/static/css/main.b21b2f03.chunk.css.map",
+    "static/js/2.dbe1c2d1.chunk.js.LICENSE.txt": "/ex2-signets/static/js/2.dbe1c2d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ca72e9f.js",
+    "static/js/2.dbe1c2d1.chunk.js",
+    "static/css/main.b21b2f03.chunk.css",
+    "static/js/main.3c061f01.chunk.js"
+  ]
+}
